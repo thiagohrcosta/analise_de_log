@@ -28,7 +28,7 @@ Para executar o presente projeto você deverá previamente seguir os passos abai
 C:> cd python 27
 C:> python27> cd FSND-Virtual-Machine
 C:> python27>FSND-Virtual-Machine> cd /vagrant
-C:> python27>FSND-Virtual-Machine>vagrant> 
+C:> python27>FSND-Virtual-Machine>vagrant>
 
 9. Dentro do diretório vagrant ative a máquina virtual com o comando **vagrant up** ;
 10. Após a sua ativação, digite o comando **vagrant ssh** para ativar a sua máquina virtual.
