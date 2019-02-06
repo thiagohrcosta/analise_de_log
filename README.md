@@ -25,10 +25,10 @@ Para executar o presente projeto você deverá previamente seguir os passos abai
 7. Para iniciar a máquina virtual efetue o download do [GitBash](https://git-scm.com/downloads)
 8. Inicie o **GitBash** e vá até o diretório onde se encontra a pasta vagrant, por exemplo:
 
-C:> cd python 27
-C:> python27> cd FSND-Virtual-Machine
-C:> python27>FSND-Virtual-Machine> cd /vagrant
-C:> python27>FSND-Virtual-Machine>vagrant>
+- C:> cd python 27
+- C:> python27> cd FSND-Virtual-Machine
+- C:> python27>FSND-Virtual-Machine> cd /vagrant
+- C:> python27>FSND-Virtual-Machine>vagrant>
 
 9. Dentro do diretório vagrant ative a máquina virtual com o comando **vagrant up** ;
 10. Após a sua ativação, digite o comando **vagrant ssh** para ativar a sua máquina virtual.
@@ -40,15 +40,15 @@ Imprimindo o resultado da pesquisa:
 ====================================
 Os artigos mais populares são:
 
-(1) "Candidate is jerk, alleges rival" com 338647 visualizações
-(2) "Bears love berries, alleges bear" com 253801 visualizações
-(3) "Bad things gone, say good people" com 170098 visualizações
+- (1) "Candidate is jerk, alleges rival" com 338647 visualizações
+- (2) "Bears love berries, alleges bear" com 253801 visualizações
+- (3) "Bad things gone, say good people" com 170098 visualizações
 ====================================
 Os autores mais populares de todos os tempos são:
 
-(1) Ursula La Multa com 507594 visualizações
-(2) Rudolf von Treppenwitz com 423457 visualizações
-(3) Anonymous Contributor com 170098 visualizações
+- (1) Ursula La Multa com 507594 visualizações
+- (2) Rudolf von Treppenwitz com 423457 visualizações
+- (3) Anonymous Contributor com 170098 visualizações
 ====================================
 Em quais dias mais de 1% das requisições resultaramem erros?
 
