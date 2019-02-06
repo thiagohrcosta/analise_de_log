@@ -1,15 +1,15 @@
-#PROJETO 3 : ANÁLISE DE LOG
+# PROJETO 3 : ANÁLISE DE LOG
 Terceiro projeto apresentado ao curso *NANODEGRE - Desenvolvimento Web Full Stack* ministrado pela UDACITY.
 
-##Descrição do Projeto
+## Descrição do Projeto
 O objetivo é desenvolver utilizando a linguagem Python um código capaz de analisar, tratar e imprimir dados de um banco de dados em uma lista ordenada. Para tanto fora utilizado o Python com Psycopg2. 
 
-##Questões a serem respondidas no projeto:
+## Questões a serem respondidas no projeto:
 1.  **Quais são os três artigos mais populares de todos os tempos?** Quais artigos foram os mais acessados? Apresente esta informação como uma lista organizada com o artigo mais popular no topo.
 2. **Quem são os autores de artigos mais populares de todos os tempos?** Isto é, quando você organizar todos os artigos que cada autor escreveu, quais autores obtiveram mais views? Apresente esta informação como uma lista organizada com o autor mais popular no topo.
 3. **Em quais dias mais de 1% das requisições resultaram em erros?** A tabela de logs inclui um status de coluna que indica o código de status HTTP que o site de notícias enviou ao navegador do usuário (consulte novamente esta aula se você quiser rever a ideia dos códigos de status HTTP).
 
-#COMO EXECUTAR O PROJETO - ANÁLISE DE LOG
+# COMO EXECUTAR O PROJETO - ANÁLISE DE LOG
 Para executar o presente projeto você deverá previamente seguir os passos abaixo:
 
 1. Instalar o [Vagrant](https://www.vagrantup.com/);
@@ -35,7 +35,7 @@ C:> python27>FSND-Virtual-Machine>vagrant>
 11. Carregue o banco de dados com o comando **psql -d news -f newsdata.sql;
 12. Execute no **GitBash** o comando **python analiselog.py** para executar o relatório.
 
-#RESULTADO ESPERADO:
+# RESULTADO ESPERADO:
 Imprimindo o resultado da pesquisa:
 ====================================
 Os artigos mais populares são:
