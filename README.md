@@ -38,18 +38,18 @@ Para executar o presente projeto você deverá previamente seguir os passos abai
 # RESULTADO ESPERADO:
 Imprimindo o resultado da pesquisa:
 ====================================
-Os artigos mais populares são:
+###Os artigos mais populares são:
 
 - (1) "Candidate is jerk, alleges rival" com 338647 visualizações
 - (2) "Bears love berries, alleges bear" com 253801 visualizações
 - (3) "Bad things gone, say good people" com 170098 visualizações
 ====================================
-Os autores mais populares de todos os tempos são:
+###Os autores mais populares de todos os tempos são:
 
 - (1) Ursula La Multa com 507594 visualizações
 - (2) Rudolf von Treppenwitz com 423457 visualizações
 - (3) Anonymous Contributor com 170098 visualizações
 ====================================
-Em quais dias mais de 1% das requisições resultaramem erros?
+###Em quais dias mais de 1% das requisições resultaramem erros?
 
 July 17, 2016 -- 2.3% erros
